@@ -92,7 +92,7 @@ The dataset contains transactional sales data for a retail store, including the 
 - Relationship visualization between **Sales** and **Profit**
 - Donut charts and treemaps for quick glances
 
-> 📍 *See Power BI dashboard screenshots [here](./Superstore_Sales_Data_Analysis.png)*
+> 📍 *See Power BI dashboard screenshots [here](./Superstore_Sales_Data_Analysis.png).*
 
 ---
 
