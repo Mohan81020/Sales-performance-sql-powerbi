@@ -12,9 +12,12 @@ The objective of this project is to analyze the Superstore sales data to underst
 
 ## 🛠️ Tools Used
 
-- **SQL Server** — For data cleaning, exploration, and querying
-- **Power BI** — For data visualization and dashboard creation
-- **Excel** — Original dataset in  `.xlsx` format
+- **SQL Server** — For querying, aggregation, and KPI extraction  
+  👉 [SQL Code](./Superstore_Sales_Analysis.sql)
+- **Power BI** — For data visualization and dashboarding  
+  👉 [Dashboard Screenshot](./assets/dashboard_screenshot.png)
+- **Excel / CSV** — Raw dataset in spreadsheet format  
+  👉 [Dataset File](./Superstore_Data.xlsx)
 
 ---
 
@@ -106,7 +109,6 @@ This project successfully demonstrates the power of combining SQL and Power BI f
 
 **Author**: Mohan Kumar  
 **Mail**: mohan122000kumar@gmail.com
-**LinkedIn**:    
 
 ---
 
