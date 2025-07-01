@@ -16,7 +16,7 @@ The objective of this project is to analyze the Superstore sales data to underst
   👉 [SQL Code](./Superstore_Sales_Analysis.sql)
 - **Power BI** — For data visualization and dashboarding  
   👉 [Dashboard Screenshot](./Superstore_Sales_Data_Analysis.png)
-- **Excel / CSV** — Raw dataset in spreadsheet format  
+- **Excel** — Raw dataset in spreadsheet format  
   👉 [Dataset File](./DataSet/Superstore_Orders_Data.xlsx)
 
 ---
